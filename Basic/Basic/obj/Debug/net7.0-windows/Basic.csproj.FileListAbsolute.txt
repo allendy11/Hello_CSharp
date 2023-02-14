@@ -1,0 +1,17 @@
+C:\Users\allen\workspace\visualStudio\Hello_CSharp\Basic\Basic\obj\Debug\net7.0-windows\Basic.csproj.AssemblyReference.cache
+C:\Users\allen\workspace\visualStudio\Hello_CSharp\Basic\Basic\obj\Debug\net7.0-windows\Basic.Form1.resources
+C:\Users\allen\workspace\visualStudio\Hello_CSharp\Basic\Basic\obj\Debug\net7.0-windows\Basic.csproj.GenerateResource.cache
+C:\Users\allen\workspace\visualStudio\Hello_CSharp\Basic\Basic\obj\Debug\net7.0-windows\Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allen\workspace\visualStudio\Hello_CSharp\Basic\Basic\obj\Debug\net7.0-windows\Basic.AssemblyInfoInputs.cache
+C:\Users\allen\workspace\visualStudio\Hello_CSharp\Basic\Basic\obj\Debug\net7.0-windows\Basic.AssemblyInfo.cs
+C:\Users\allen\workspace\visualStudio\Hello_CSharp\Basic\Basic\obj\Debug\net7.0-windows\Basic.csproj.CoreCompileInputs.cache
+C:\Users\allen\workspace\visualStudio\Hello_CSharp\Basic\Basic\bin\Debug\net7.0-windows\Basic.exe
+C:\Users\allen\workspace\visualStudio\Hello_CSharp\Basic\Basic\bin\Debug\net7.0-windows\Basic.deps.json
+C:\Users\allen\workspace\visualStudio\Hello_CSharp\Basic\Basic\bin\Debug\net7.0-windows\Basic.runtimeconfig.json
+C:\Users\allen\workspace\visualStudio\Hello_CSharp\Basic\Basic\bin\Debug\net7.0-windows\Basic.dll
+C:\Users\allen\workspace\visualStudio\Hello_CSharp\Basic\Basic\bin\Debug\net7.0-windows\Basic.pdb
+C:\Users\allen\workspace\visualStudio\Hello_CSharp\Basic\Basic\obj\Debug\net7.0-windows\Basic.dll
+C:\Users\allen\workspace\visualStudio\Hello_CSharp\Basic\Basic\obj\Debug\net7.0-windows\refint\Basic.dll
+C:\Users\allen\workspace\visualStudio\Hello_CSharp\Basic\Basic\obj\Debug\net7.0-windows\Basic.pdb
+C:\Users\allen\workspace\visualStudio\Hello_CSharp\Basic\Basic\obj\Debug\net7.0-windows\Basic.genruntimeconfig.cache
+C:\Users\allen\workspace\visualStudio\Hello_CSharp\Basic\Basic\obj\Debug\net7.0-windows\ref\Basic.dll
